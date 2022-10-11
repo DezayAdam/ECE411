@@ -5,5 +5,5 @@ Collaborators are
 
 Adam Dezay (Adezay@pdx.edu)  
 Braeden Hamson (bhamson@pdx.edu)  
-Constantine Hatzidakis Constantine Hatzidakis (constan6@pdx.edu)  
+Constantine Hatzidakis (constan6@pdx.edu)  
 Kenny Doan (khandoan@pdx.edu)
